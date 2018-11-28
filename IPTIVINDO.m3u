@@ -1,0 +1,77 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="TVONE.jpg" group-title="Indonesia", TVONE
+http://210.210.155.35/qwr9ew/s/s02/02.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="SCTV.jpg" group-title="Indonesia", SCTV
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="TRANSTV.jpg" group-title="Indonesia", TRANSTV
+http://210.210.155.35/qwr9ew/s/s05/02.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="TRANS7.jpg" group-title="Indonesia", TRANS 7
+http://210.210.155.35/qwr9ew/s/s06/02.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", GLOBAL TV
+http://202.80.222.179:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="INDOSIAR.jpg" group-title="Indonesia", INDOSIAR
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", ANTEVE
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="RCTI.jpg" group-title="Indonesia", RCTI
+http://202.80.222.178/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="MNCTV.jpg" group-title="Indonesia", MNCTV
+http://202.80.222.178/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="METROTV.jpg" group-title="Indonesia", METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="NET.jpg" group-title="Indonesia", NET TV 
+http://210.210.155.35/qwr9ew/s/s08/02.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", TVRI 
+http://210.210.155.35/qwr9ew/s/s11/02.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="RTV.jpg" group-title="Indonesia", RTV
+http://210.210.155.35/qwr9ew/s/s12/02.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", ELSHINTA
+http://210.210.155.35/qwr9ew/s/s10/02.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="INEWS.jpg" group-title="Indonesia", I NEWS
+http://202.80.222.169/000001/2/ch14041511541532132975/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="JAKTV.jpg" group-title="Indonesia", JAK TV
+http://202.80.222.178:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", BALI TV
+http://202.80.222.171/000001/2/ch00000090990000001729/1001.m3u8?zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", ZEEBIOSKOP
+http://210.210.155.35/qwr9ew/s/s32/02.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", FIGHT
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", K+ KOREA
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", GOLF HD
+http://210.210.155.35/uq2663/h/h232/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", HBO HD
+http://210.210.155.35/session/98bcfbb2-cd03-11e8-8197-b82a72d63267/uq2663/h/h231/index2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", DISCOVERY SCIENCE
+http://5.189.187.55:8000/live/listam3utk@gmail.com/K32IB3FG/4178.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Indonesia", STARZ CINEMA
+http://5.189.187.55:8000/live/listam3utk@gmail.com/K32IB3FG/4207.ts
+
+
+
