@@ -52,7 +52,7 @@ http://202.80.222.169/000001/2/ch14041511541532132975/1024.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/JAKTV.jpg" group-title="Indonesia", JAK TV
 http://202.80.222.178:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="nologo.png" group-title="Indonesia", DANGDUT TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/DANGDUTTV.jpg" group-title="Indonesia", DANGDUT TV
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 
 
@@ -62,7 +62,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/BALI%20TV.jpg" group-title="Indonesia", BALI TV
 http://202.80.222.171/000001/2/ch00000090990000001729/1001.m3u8?zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://oi65.tinypic.com/ips401.jpg" group-title="Indonesia", ZEEBIOSKOP
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/ZEE%20BIOSKOP.jpg" group-title="Indonesia", ZEEBIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/02.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://oi68.tinypic.com/2mwi8us.jpg" group-title="Indonesia", FIGHT
@@ -71,17 +71,17 @@ http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://oi66.tinypic.com/294jk0x.jpg" group-title="Indonesia", K+ KOREA
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://oi64.tinypic.com/103crhe.jpg" group-title="Indonesia", GOLF HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/GOLF.jpg" group-title="Indonesia", GOLF HD
 http://210.210.155.35/uq2663/h/h232/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://oi63.tinypic.com/fnh1zm.jpg" group-title="Indonesia", HBO HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/HBO.jpg" group-title="Indonesia", HBO HD
 http://210.210.155.35/session/98bcfbb2-cd03-11e8-8197-b82a72d63267/uq2663/h/h231/index2.m3u8
 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/ANIMALPLANET.jpg" group-title="Indonesia", ANIMAL PLANET
 http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/112
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="nologo.png" group-title="Indonesia", HBO 2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/HBOINDO.jpg" group-title="Indonesia", HBO 2
 http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/454
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="nologo.png" group-title="Indonesia", DICOVERY TURBO
