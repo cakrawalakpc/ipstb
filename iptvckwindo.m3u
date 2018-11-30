@@ -31,7 +31,7 @@ http://202.80.222.178/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/METROTV.jpg" group-title="Indonesia", METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/cakrawalakpc/ipstb/blob/master/logotv/NET.jpg" group-title="Indonesia", NET TV 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/NET.jpg" group-title="Indonesia", NET TV 
 http://210.210.155.35/qwr9ew/s/s08/02.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/TVRI.jpg" group-title="Indonesia", TVRI 
