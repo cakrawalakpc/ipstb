@@ -84,19 +84,19 @@ http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/112
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/HBOINDO.jpg" group-title="Indonesia", HBO 2
 http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/454
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="nologo.png" group-title="Indonesia", DICOVERY TURBO
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/DISCOTUBO.jpg" group-title="Indonesia", DICOVERY TURBO
 http://177.139.171.102:27030/live/alvaro/17/124.ts
 
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="nologo.png" group-title="Indonesia", HBO INDONESIA
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/HBO.jpg" group-title="Indonesia", HBO INDONESIA
 http://rr.dens.tv/h/h231/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="nologo.png" group-title="Indonesia", NAT GEO WILD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/NATGEOWILD.jpg" group-title="Indonesia", NAT GEO WILD
 http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=9HBzxNeuVKCF9tSg8EJBDQouJrh4MyHZjmkMJGdq8Uh4APAFd9-6ylJqTh03popl
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="nologo.png" group-title="Indonesia", NATIONAL GEOGRAFIC
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/NAT%20GEO.jpg" group-title="Indonesia", NATIONAL GEOGRAFIC
 http://livestream.biznetvideo.net/biznet_ngc/_definst_/stream_ngc/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=7uN8irTYbg4krqClT-fumw597nysiQLTedMw2_3HXq8XMkPGnw_lsCxqZx7OHAcc
 
 
