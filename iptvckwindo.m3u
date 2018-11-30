@@ -34,22 +34,22 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/cakrawalakpc/ipstb/blob/master/logotv/NET.jpg" group-title="Indonesia", NET TV 
 http://210.210.155.35/qwr9ew/s/s08/02.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://oi65.tinypic.com/m1rbm.jpg" group-title="Indonesia", TVRI 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/TVRI.jpg" group-title="Indonesia", TVRI 
 http://210.210.155.35/qwr9ew/s/s11/02.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://oi64.tinypic.com/20pq1ar.jpg" group-title="Indonesia", RTV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/RTV.jpg" group-title="Indonesia", RTV
 http://210.210.155.35/qwr9ew/s/s12/02.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="nologo.png" group-title="Indonesia", BERITASATU
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/BERITASATU.jpg" group-title="Indonesia", BERITASATU
 http://edge.linknetott.swiftserve.com/channelgroup1/cg1production/ch360/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://oi67.tinypic.com/33xbio8.jpg" group-title="Indonesia", ELSHINTA
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/ELSHINTA.jpg" group-title="Indonesia", ELSHINTA
 http://210.210.155.35/qwr9ew/s/s10/02.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://oi67.tinypic.com/xd5no4.jpg.jpg" group-title="Indonesia", I NEWS
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/INEWS.jpg" group-title="Indonesia", I NEWS
 http://202.80.222.169/000001/2/ch14041511541532132975/1024.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://oi67.tinypic.com/kf5a0z.jpg" group-title="Indonesia", JAK TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/JAKTV.jpg" group-title="Indonesia", JAK TV
 http://202.80.222.178:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="nologo.png" group-title="Indonesia", DANGDUT TV
