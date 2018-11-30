@@ -15,7 +15,7 @@ http://210.210.155.35/qwr9ew/s/s06/02.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/GLOBALTV.jpg" group-title="Indonesia", GLOBAL TV
 http://202.80.222.179:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://oi66.tinypic.com/1220nbn.jpg" group-title="Indonesia", INDOSIAR
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/INDOSIAR.jpg" group-title="Indonesia", INDOSIAR
 http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/ANTEVE%20(3).jpg" group-title="Indonesia", ANTEVE
@@ -25,13 +25,13 @@ http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 http://202.80.222.178/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://oi68.tinypic.com/35215k5.jpg" group-title="Indonesia", MNCTV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/MNCTV.jpg" group-title="Indonesia", MNCTV
 http://202.80.222.178/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://oi64.tinypic.com/2eanzb5.jpg" group-title="Indonesia", METRO TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/METROTV.jpg" group-title="Indonesia", METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://oi68.tinypic.com/2py7sau.jpg" group-title="Indonesia", NET TV 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/cakrawalakpc/ipstb/blob/master/logotv/NET.jpg" group-title="Indonesia", NET TV 
 http://210.210.155.35/qwr9ew/s/s08/02.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://oi65.tinypic.com/m1rbm.jpg" group-title="Indonesia", TVRI 
